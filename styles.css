@@ -1,0 +1,36 @@
+body{
+    text-align: center;
+    background-repeat: no-repeat;
+    background-position: center;
+    
+}
+
+
+.container{
+    justify-content: center;
+    align-items: center;
+    font-size: 30px;
+    
+}
+
+button{
+    width: 90px;
+    height: 60px;
+    font-size: 30px;
+    background-color: rgb(245, 230, 19);
+}
+
+button:hover{
+    background-color: rgb(180, 182, 88);
+}
+
+h2{
+    color: black;
+    margin: 0 50px;
+    font-size: 45px;
+}
+
+h1{
+    font-size: 35px;
+    color: rgb(241, 32, 241)
+}
